@@ -87,3 +87,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VenketeshRushi&theme=dark" alt="VenketeshRushi" /></p>
 <br>
+<img src="https://activity-graph.herokuapp.com/graph?username=VenketeshRushi&theme=xcode" height ="307"/>
