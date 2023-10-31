@@ -11,7 +11,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant, and efficient code.</i>
 </h3>
 
 <h3>
@@ -65,14 +65,14 @@
 
 
 <p align="left">
+    <a href="https://github.com/VenketeshRushi/ecom-client" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike-Clone" />
+    </a>
     <a href="https://github.com/VenketeshRushi/Blog-app" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog App&color=1a78f4&logo=tmux&logoColor=FFFFFF&label=" alt="Blog-App" />
     </a>
     <a href="https://64c8934c58159a3cd96ff9cf--rococo-biscuit-257cba.netlify.app/" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blue Bus&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Red Bus Clone" />
-    </a>
-    <a href="https://github.com/VenketeshRushi/Nike--Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike-Clone" />
     </a>
     <a href="https://github.com/VenketeshRushi/SoCloudy-WeatherApp" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
