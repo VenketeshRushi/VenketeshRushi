@@ -80,9 +80,9 @@
     <a href="https://github.com/VenketeshRushi/TranslatorApp" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
     </a>
-    <a href="https://github.com/IamSanjayGupta/dazzling-measure-5625" target="blank">
+<!--     <a href="https://github.com/IamSanjayGupta/dazzling-measure-5625" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TMetric Clone ( Time Tracking App )      &color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Time Tracking App" />
-    </a>
+    </a> -->
 </p>
 <br>
 
