@@ -15,7 +15,7 @@
 </h3>
 
 <h3>
-    <i>- Currently working at <a href="https://www.karini.ai/" target="_blank" rel="nofollow">Karini.ai</a> as a Full-Stack Engineer.</i>
+    <i>- Currently working at <a href="https://www.karini.ai/" target="blank" rel="nofollow">Karini.ai</a> as a Full-Stack Engineer.</i>
 </h3>
 <br>
 
