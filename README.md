@@ -15,7 +15,7 @@
 </h3>
 
 <h3>
-    <i>- Currently working at Vowel Web as a MERN Stack Developer.</i>
+    <i>- Currently working at Karini.ai as a Full-Stack Engineer.</i>
 </h3>
 <br>
 
