@@ -64,7 +64,7 @@
 
 <!----------------------------------- Project Section ------------------------------------>
 
-<h2><i>My top projects</i></h2>
+<h2><i>Projects</i></h2>
 
 
 <p align="left">
@@ -95,9 +95,6 @@
 
 
 <p align="left">
-    <a href="https://venketeshrushi.github.io/Portfolio/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://Venketesh-Rushi.vercel.app/" />
-    </a>
     <a href="https://www.linkedin.com/in/venketesh-rushi-423722236/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/VenketeshRushi" />
     </a>
