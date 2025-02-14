@@ -13,10 +13,6 @@
 <h3>
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant, and efficient code.</i>
 </h3>
-
-<h3>
-    <i>- Currently working at <a href="https://www.karini.ai/" target="blank" rel="nofollow">Karini.ai</a> as a Full-Stack Developer.</i>
-</h3>
 <br>
 
 
