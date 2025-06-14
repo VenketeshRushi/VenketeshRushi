@@ -33,7 +33,6 @@
     <td>
       <img src="https://img.shields.io/badge/Generative%20AI-4EA94B?style=for-the-badge&logo=googlecloud&logoColor=white" />
       <img src="https://img.shields.io/badge/Langchain-0052CC?style=for-the-badge&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pinecone-0C8CE9?style=for-the-badge&logo=pinecone&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -80,6 +79,8 @@
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Milvus-009394?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pinecone-0C8CE9?style=for-the-badge&logo=pinecone&logoColor=white" />
     </td>
   </tr>
   <tr>
